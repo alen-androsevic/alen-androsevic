@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a> · lately: one-session PoCs, Friday demos, and one invoice for insurance, internet, mobile and energy, on autopilot.
+Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a> · lately: one-session PoCs, Friday demos, and one invoice for every utility, on autopilot.
 
 ```yaml
 stack:
