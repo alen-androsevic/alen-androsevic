@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-Developer at Enrise. I build with coding agents, terminals, Go and the occasional native app.
+Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a>. I build small tools with coding agents, mostly in Go and mostly for the terminal.
 
 ```yaml
 runtime: today
