@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a>. I build small tools with coding agents, mostly in Go and mostly for the terminal.
+Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a> · lately: PoCs in one session, demos by Friday, and a business that folds every subscription into one invoice, on autopilot.
 
 ```yaml
 runtime: today
