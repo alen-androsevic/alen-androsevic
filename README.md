@@ -9,13 +9,12 @@ Developer at <a href="https://enrise.com"><picture><source media="(prefers-color
 
 ```yaml
 stack:
-  agents:  Claude Code, MCP, skills, Anthropic SDK
-  rust:    edition 2024, Tokio, Axum, LSP, Typst
-  go:      Go 1.27, Bubble Tea v2, pgx v5
-  web:     Effect 4 on Bun, Astro 7, React 19, Vite 8, TypeScript 7
-  native:  Swift 6.2 on macOS 26, Flutter
-  mobile:  Expo 58
-  php:     PHP 8.5, Laravel 13, Filament 5, Pest 4
+  go:      microservices, CLIs, TUIs          # Go 1.27, pgx v5, Bubble Tea v2
+  rust:    services, CLIs, a language server  # edition 2024, Tokio, Axum
+  ts:      web and mobile apps                # Effect 4 on Bun, Astro 7, Expo 58
+  swift:   macOS and iOS apps                 # Swift 6
+  php:     Laravel apps                       # Laravel 13, PHP 8.5
+  agents:  Claude Code, MCP servers, skills
 ```
 
 [notes](https://alen.andronewille.eu/notes/) · [hire me](https://alen.andronewille.eu/hire/)
