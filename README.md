@@ -17,4 +17,4 @@ stack:
   agents:  Claude Code, MCP servers, skills
 ```
 
-[notes](https://alen.andronewille.eu/notes/) · [hire me](https://alen.andronewille.eu/hire/)
+[notes](https://alen.andronewille.eu/notes/)
