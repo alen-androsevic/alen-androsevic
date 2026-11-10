@@ -8,10 +8,14 @@
 Developer at <a href="https://enrise.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./enrise-dark.svg"><img alt="Enrise" src="./enrise-light.svg" height="14"></picture></a> · lately: PoCs in one session, demos by Friday, and all subscriptions, one invoice, on autopilot.
 
 ```yaml
-now:
-  - tracer       # marks symbols on P&ID drawings and exports an Excel checklist for the field
-  - clean-slate  # every dev run starts from empty state
-  - codeshot     # a command and its output, as a PNG
+stack:
+  agents:  Claude Code, MCP, skills, Anthropic SDK
+  rust:    edition 2024, Tokio, Axum, LSP, Typst
+  go:      Go 1.27, Bubble Tea v2, pgx v5
+  web:     Effect 4 on Bun, Astro 7, React 19, Vite 8, TypeScript 7
+  native:  Swift 6.2 on macOS 26, Flutter
+  mobile:  Expo 58
+  php:     PHP 8.5, Laravel 13, Filament 5, Pest 4
 ```
 
 [notes](https://alen.andronewille.eu/notes/) · [hire me](https://alen.andronewille.eu/hire/)
